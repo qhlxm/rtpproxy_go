@@ -1,2 +1,2 @@
 # rtpproxy_go
-custom rtpproxy
+go语言实现的rtpproxy服务
